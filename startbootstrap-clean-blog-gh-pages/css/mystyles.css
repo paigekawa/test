@@ -1,0 +1,43 @@
+h2{
+    text-decoration: underline;
+}
+p{
+    font-style:italic;
+    text-align: center;
+}
+body{
+    background-color: whitesmoke;
+    border:15px solid;
+    margin:30px; 
+}
+.container{
+    display:grid;
+    align-items:center;
+    grid-template-columns:1fr 1fr 1fr;
+    column-gap: 5px;
+}
+
+.text{
+    font-size:70px;
+    padding-left:250px;
+}
+h4{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+title{
+    text-align: center;
+}
